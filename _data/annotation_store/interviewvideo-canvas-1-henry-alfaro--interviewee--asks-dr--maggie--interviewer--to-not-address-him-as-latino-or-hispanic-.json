@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/interviewvideo-canvas-1-henry-alfaro--interviewee--asks-dr--maggie--interviewer--to-not-address-him-as-latino-or-hispanic-.json",
+  "type": "AnnotationPage",
+  "label": "Henry Alfaro (Interviewee) asks Dr. Maggie (Interviewer) to not address him as Latino or Hispanic.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interviewvideo-canvas-1-henry-alfaro--interviewee--asks-dr--maggie--interviewer--to-not-address-him-as-latino-or-hispanic--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewee: Emotion(boundary)",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Interviewee is firm about boundary and interviewer affirms that.",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/interviewvideo/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/interviewvideo/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "57.0,60.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/interviewvideo-canvas-1-dr--maggie-asks-about.json",
+  "type": "AnnotationPage",
+  "label": "Dr. Maggie asks about",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "interviewvideo-canvas-1-dr--maggie-asks-about-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewer asks about Interviewees complexion",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "nn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/interviewvideo/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/interviewvideo/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "222.0,240.0"
+        }
+      }
+    }
+  ]
+}
