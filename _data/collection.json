@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Henry Alfaro Voces Oral History" ] },
+    "summary": { "en": [ "Dr. Maggie Rivas-Rodriguez interviews Henry Alfaro" ] },
+    "items": [
+    ]
+}
