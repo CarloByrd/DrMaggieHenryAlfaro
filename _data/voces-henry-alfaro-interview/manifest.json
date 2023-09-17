@@ -11,6 +11,13 @@
         "format": "text/html"
       }
     ],
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
     "items": [
       {
         "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
