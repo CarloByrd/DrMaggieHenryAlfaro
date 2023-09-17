@@ -3,6 +3,14 @@
     "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Voces Henry Alfaro Interview" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/870-alfaro-henry",
+        "type": "Text",
+        "label": { "en": [ "Voces Henry Alfaro Interview" ] },
+        "format": "text/html"
+      }
+    ],
     "items": [
       {
         "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
