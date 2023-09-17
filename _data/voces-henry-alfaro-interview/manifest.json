@@ -3,21 +3,6 @@
     "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Voces Henry Alfaro Interview" ] },
-    "homepage": [
-      {
-        "id": "https://ia801808.us.archive.org",
-        "type": "Text",
-        "label": { "en": [ "Voces Henry Alfaro Interview" ] },
-        "format": "text/html"
-      }
-    ],
-    "provider": [
-      {
-        "id": "https://archive.org/detailshttps://ia801808.us.archive.org/35/items/870-alfaro-henry/870_Alfaro_Henry.m4v870-alfaro-henry",
-        "type": "Agent",
-        "label": { "en": [ "Internet Archive" ] }
-      }
-    ],
     "items": [
       {
         "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
