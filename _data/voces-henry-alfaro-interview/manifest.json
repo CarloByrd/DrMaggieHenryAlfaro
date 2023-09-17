@@ -22,7 +22,7 @@
       {
         "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 50.04,
+        "duration": 51,
         "items": [
           {
             "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/paintings",
@@ -34,7 +34,7 @@
                 "motivation": "painting",
                 "body": {
                   "id": "https://ia801808.us.archive.org/35/items/870-alfaro-henry/870_Alfaro_Henry.m4v",
-                    "duration": 50.04
+                    "duration": 51
                 },
                 "target": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas"
               }
