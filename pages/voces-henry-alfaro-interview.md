@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Voces Henry Alfaro Interview
 manifest_name: voces-henry-alfaro-interview
 permalink: voces-henry-alfaro-interview
