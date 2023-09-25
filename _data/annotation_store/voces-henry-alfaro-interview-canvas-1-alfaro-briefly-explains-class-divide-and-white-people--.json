@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/voces-henry-alfaro-interview-canvas-1-alfaro-briefly-explains-class-divide-and-white-people--.json",
+  "type": "AnnotationPage",
+  "label": "Alfaro briefly explains class divide and white people. ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-henry-alfaro-interview-canvas-1-alfaro-briefly-explains-class-divide-and-white-people---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewer: Asks Alfaro to explain East vs West Los Angeles to non-residents. #race #ethnicity #nationality",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "This question is a bit different from the one before and the one after it. but I still see the rationale.",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.14.55,0.15.32"
+        }
+      }
+    }
+  ]
+}

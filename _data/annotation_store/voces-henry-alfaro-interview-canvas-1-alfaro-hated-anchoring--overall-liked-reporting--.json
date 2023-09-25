@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/voces-henry-alfaro-interview-canvas-1-alfaro-hated-anchoring--overall-liked-reporting--.json",
+  "type": "AnnotationPage",
+  "label": "Alfaro hated anchoring. overall liked reporting. ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-henry-alfaro-interview-canvas-1-alfaro-hated-anchoring--overall-liked-reporting---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewer: Asking about his specific roles in this timeframe. She shares that she liked being reporter too. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Dr. Maggie relating to Alfaro for the first time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.31.39,0.31.57"
+        }
+      }
+    }
+  ]
+}

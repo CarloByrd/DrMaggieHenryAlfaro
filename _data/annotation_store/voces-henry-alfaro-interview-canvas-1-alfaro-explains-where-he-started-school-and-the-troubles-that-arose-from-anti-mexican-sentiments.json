@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/voces-henry-alfaro-interview-canvas-1-alfaro-explains-where-he-started-school-and-the-troubles-that-arose-from-anti-mexican-sentiments.json",
+  "type": "AnnotationPage",
+  "label": "Alfaro explains where he started school and the troubles that arose from anti-Mexican sentiments",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-henry-alfaro-interview-canvas-1-alfaro-explains-where-he-started-school-and-the-troubles-that-arose-from-anti-mexican-sentiments-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewee: Earliest memories and growing up #Mexican #race #english #spanish #school ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alfaro is a storyteller and Dr. Maggie knows how to get that going. Alfaro describes interesting facets like \"frog town\" and seeking revenge on bullies with his buddies.",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.04.57,0.06.02"
+        }
+      }
+    }
+  ]
+}

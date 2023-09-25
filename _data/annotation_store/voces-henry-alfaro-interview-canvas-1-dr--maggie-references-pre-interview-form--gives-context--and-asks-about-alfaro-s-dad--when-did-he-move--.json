@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/voces-henry-alfaro-interview-canvas-1-dr--maggie-references-pre-interview-form--gives-context--and-asks-about-alfaro-s-dad--when-did-he-move--.json",
+  "type": "AnnotationPage",
+  "label": "Dr. Maggie references pre interview form. gives context. and asks about Alfaro's dad (when did he move?)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-henry-alfaro-interview-canvas-1-dr--maggie-references-pre-interview-form--gives-context--and-asks-about-alfaro-s-dad--when-did-he-move---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewer: Jumps right into it with specific question. Interviewee: Powerful anecdote #immigration #parents #Danger",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Dr. Maggie uses context to her advantage and jumps right into a specific question.  Alfaro explains paternal migration; American threat to Mexicans; father meets mom.",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.01.15,0.02.04"
+        }
+      }
+    }
+  ]
+}

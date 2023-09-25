@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/voces-henry-alfaro-interview-canvas-1-explains-his-method-for-getting-people-to-explain-topic-at-hand-for-him-to-properly-write-about-it--.json",
+  "type": "AnnotationPage",
+  "label": "Explains his method for getting people to explain topic at hand for him to properly write about it. ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-henry-alfaro-interview-canvas-1-explains-his-method-for-getting-people-to-explain-topic-at-hand-for-him-to-properly-write-about-it---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewee: Anecdotes on his role across different topics. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Telling of his determination and dynamic when writing stories/getting confidence in himself.",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.24.14,0.25.04"
+        }
+      }
+    }
+  ]
+}

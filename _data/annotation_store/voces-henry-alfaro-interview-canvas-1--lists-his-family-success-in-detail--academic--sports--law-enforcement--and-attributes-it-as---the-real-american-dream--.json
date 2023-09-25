@@ -1,0 +1,53 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/voces-henry-alfaro-interview-canvas-1--lists-his-family-success-in-detail--academic--sports--law-enforcement--and-attributes-it-as---the-real-american-dream--.json",
+  "type": "AnnotationPage",
+  "label": " Lists his family success in detail (academic, sports, law enforcement) and attributes it as ..the real American Dream..",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-henry-alfaro-interview-canvas-1--lists-his-family-success-in-detail--academic--sports--law-enforcement--and-attributes-it-as---the-real-american-dream---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewee: Family success as the #AmericanDream #Proud #education #sports #lawenforcement",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alfaro is explicitly proud of what his family has achieved and establishes them as an example of the American dream",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "this is telling of his ideas of what success means as descendants of immigrants.",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "167.0,193.0"
+        }
+      }
+    }
+  ]
+}

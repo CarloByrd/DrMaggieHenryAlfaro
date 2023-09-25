@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/voces-henry-alfaro-interview-canvas-1-alfaro-explains-mexicans-and-italians-getting-along-in-his-neighborhood--leads-to-recollection-of-the-necessity-to-be-tough-in-his-community-as-a-man-and-chicano-.json",
+  "type": "AnnotationPage",
+  "label": "Alfaro explains Mexicans and Italians getting along in his neighborhood. Leads to recollection of the necessity to be tough in his community as a man and chicano.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-henry-alfaro-interview-canvas-1-alfaro-explains-mexicans-and-italians-getting-along-in-his-neighborhood--leads-to-recollection-of-the-necessity-to-be-tough-in-his-community-as-a-man-and-chicano--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewer: Asks about demographics of the area #Mexicans #Italians #Chicanos Interviewee: Discusses toughness and masculinity as necessity and connotes chicanismo. #machismo #country",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alfaro explains role of machismo without saying it. Describes ideals of the time that shunned \"chickens\" and valued men who fought for their family and for their country. \"Now they're a bunch of cowards.\"",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.06.03,0.07.45"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/voces-henry-alfaro-interview-canvas-1-explains-his-work-ethic--supporters-and-having-to-prove-himself--anecdote-about-his-mom-s-english-and-how-she-called-pepperdine---peppermint--.json",
+  "type": "AnnotationPage",
+  "label": "Explains his work ethic. supporters and having to prove himself. Anecdote about his mom's English and how she called Pepperdine. \"peppermint.\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-henry-alfaro-interview-canvas-1-explains-his-work-ethic--supporters-and-having-to-prove-himself--anecdote-about-his-mom-s-english-and-how-she-called-pepperdine---peppermint---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewee: Talks about his tedious work/school ethic and proving himself. #lighthearted #funny anecdote about mother. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alfaro laughs and lights up recounting his mother's pronunciation of pepperdine. \"I'm the only graduate of peppermint college\" but emphasizes how proud she was. Interestingly. follows up to discredit others who make excuses. \"If you want it. you'll work for it.\"",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.13.44,0.14.54"
+        }
+      }
+    }
+  ]
+}

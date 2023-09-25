@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/voces-henry-alfaro-interview-canvas-1-alfaro-elaborates-on-the-role-of-hispanic-as-an-identifier-and-the-complications-with-it--says-black--white-and-asian-are-identifiers-that-leave-us-out-and-hispanic-is-not-fitting--.json",
+  "type": "AnnotationPage",
+  "label": "Alfaro elaborates on the role of hispanic as an identifier and the complications with it. Says Black. White and Asian are identifiers that leave us out and Hispanic is not fitting. ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-henry-alfaro-interview-canvas-1-alfaro-elaborates-on-the-role-of-hispanic-as-an-identifier-and-the-complications-with-it--says-black--white-and-asian-are-identifiers-that-leave-us-out-and-hispanic-is-not-fitting---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewer: Asks specific question about his identity and reporting within it. Interviewee: Reiterates he is not #hispanic",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Dr. Maggie took the opportunity for him to flesh out his opinion of hispanc identity and what that means to him (squat).",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.46.01,0.49.09"
+        }
+      }
+    }
+  ]
+}

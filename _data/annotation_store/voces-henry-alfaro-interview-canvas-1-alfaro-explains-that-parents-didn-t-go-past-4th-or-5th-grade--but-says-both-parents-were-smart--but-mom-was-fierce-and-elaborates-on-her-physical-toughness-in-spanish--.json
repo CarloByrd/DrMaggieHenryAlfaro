@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/voces-henry-alfaro-interview-canvas-1-alfaro-explains-that-parents-didn-t-go-past-4th-or-5th-grade--but-says-both-parents-were-smart--but-mom-was-fierce-and-elaborates-on-her-physical-toughness-in-spanish--.json",
+  "type": "AnnotationPage",
+  "label": "Alfaro explains that parents didn't go past 4th or 5th grade. but says both parents were smart. But mom was fierce and elaborates on her physical toughness in spanish. ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-henry-alfaro-interview-canvas-1-alfaro-explains-that-parents-didn-t-go-past-4th-or-5th-grade--but-says-both-parents-were-smart--but-mom-was-fierce-and-elaborates-on-her-physical-toughness-in-spanish---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewer: Were your parents educated? #education #mom #dad #spanish #english Interviewee:",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alfaro is explicitly a proud. native Spanish speaker. The way he speaks of his mother is respectful. but different from the way he speaks of his dad.",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.03.14,0.04.04"
+        }
+      }
+    }
+  ]
+}

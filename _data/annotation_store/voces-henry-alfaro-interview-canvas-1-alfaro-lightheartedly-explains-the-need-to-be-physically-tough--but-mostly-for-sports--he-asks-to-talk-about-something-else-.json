@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/voces-henry-alfaro-interview-canvas-1-alfaro-lightheartedly-explains-the-need-to-be-physically-tough--but-mostly-for-sports--he-asks-to-talk-about-something-else-.json",
+  "type": "AnnotationPage",
+  "label": "Alfaro lightheartedly explains the need to be physically tough. but mostly for sports. He asks to talk about something else!",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-henry-alfaro-interview-canvas-1-alfaro-lightheartedly-explains-the-need-to-be-physically-tough--but-mostly-for-sports--he-asks-to-talk-about-something-else--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewer: Asks about fist fights growing up. #fights",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Although we're only 7 min in. Dr. Maggie had a lot to work with from previous response and could've asked about how he makes sense of his generations' ideals. But I see how she works in a sort of timeline - working from his youth onward.  Alfaro asks to jump topics",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.07.47,0.08.16"
+        }
+      }
+    }
+  ]
+}

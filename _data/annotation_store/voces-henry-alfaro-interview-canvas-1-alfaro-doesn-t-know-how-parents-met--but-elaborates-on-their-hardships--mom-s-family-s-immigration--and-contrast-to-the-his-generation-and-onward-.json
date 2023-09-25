@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/annotations/voces-henry-alfaro-interview-canvas-1-alfaro-doesn-t-know-how-parents-met--but-elaborates-on-their-hardships--mom-s-family-s-immigration--and-contrast-to-the-his-generation-and-onward-.json",
+  "type": "AnnotationPage",
+  "label": "Alfaro doesn't know how parents met. but elaborates on their hardships. mom's family's immigration. and contrast to the his generation and onward.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "voces-henry-alfaro-interview-canvas-1-alfaro-doesn-t-know-how-parents-met--but-elaborates-on-their-hardships--mom-s-family-s-immigration--and-contrast-to-the-his-generation-and-onward--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Interviewee: reflexive anecdote #personalSuccess",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alfaro explains his personal success as a contrast to whats expected of children of immigrants. Illuminates his own children too. Maybe not notable. but makes an interesting pause on his son at 0.02.46",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://CarloByrd.github.io/DrMaggieHenryAlfaro/voces-henry-alfaro-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.02.05,0.02.46"
+        }
+      }
+    }
+  ]
+}
